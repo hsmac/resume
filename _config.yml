@@ -1,6 +1,6 @@
 # Site settings
 title: "Kyle Keilson Resume"
-description: "Kyle Keilson Resume Homepage"
+description: "Kyle Keilson Resume"
 
 # Build settings
 markdown: kramdown
