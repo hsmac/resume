@@ -16,7 +16,7 @@ resume_contact_email:           "kyle@keilson.org"
 resume_contact_telephone:       "630-518-4538"
 resume_contact_address:         "Sarasota, FL"
 resume_header_contact_info: "Sarasota, FL | 630-518-4538 | kyle@keilson.org"
-resume_header_intro: "<p>This is the executive summary. You should write a few brief, concise, and meaningful sentences about yourself from a professional context, and your immediate career goals. Make the length appropriate for your needs, but K.I.S.S.</p>"
+resume_header_intro: "<p>Experienced Systems and Network Support with a demonstrated history of working in the information technology and services industry. Skilled in OS X, Microsoft Office 365, Network Technologies, Bash, and Documentation. Strong information technology professional with a Bachelor of Science (B.S.) focused in Network Engineering and Security from DePaul University.</p>"
 
 # use "yes" to display the email contact button,
 # "no" to display an "I'm not looking for work" message,
@@ -38,13 +38,13 @@ resume_section_associations:    true
 # Resume social links
 # uncomment the options you wish to display, and add your own URL
 resume_social_links:
-  resume_github_url:            "https://github.com/jglovier/resume-template"
-  resume_twitter_url:           "http://twitter.com/jglovier"
-  resume_dribbble_url:          "https://dribbble.com/jag"
+  #resume_github_url:            "https://github.com/jglovier/resume-template"
+  #resume_twitter_url:           "http://twitter.com/jglovier"
+  #resume_dribbble_url:          "https://dribbble.com/jag"
   # resume_facebook_url:          "insert Facebook URL here"
-  resume_linkedin_url:          "https://www.linkedin.com/in/joelglovier"
+  resume_linkedin_url:          "https://www.linkedin.com/in/kylekeilson/"
   # resume_instagram_url:         "insert your Instagram URL here"
-  resume_website_url:           "http://joelglovier.com"
+  resume_website_url:           "http://keilson.org"
 resume_print_social_links:      true
 
 # Design settings
