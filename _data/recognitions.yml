@@ -1,15 +1,15 @@
 # Recognitions
 - award: "Apple Certified Support Professional 10.11"
   organization: Apple
-  summary: "<img src=\"images/ACSP1011.png\" alt=\"ACSP1011\" itemprop=\"image\">"
+  summary: "<img src=\"images/ACSP1011.png\" style=\"border: 0; width:300px; height: 35px\" alt=\"ACSP1011\" itemprop=\"image\">"
 
 - award: "Apple Certified Support Professional 10.10"
   organization: Apple
-  summary: "<img src=\"images/ACSP1010.png\" alt=\"ACSP1010\" itemprop=\"image\">"
+  summary: "<img src=\"images/ACSP1010.png\" style=\"border: 0; width:300px; height: 35px\" alt=\"ACSP1011\" itemprop=\"image\">"
 
 - award: "Apple Certified Technical Coordinator 10.10"
   organization: Apple
-  summary: "<img src=\"images/ACTC1010.png\" alt=\"ACTC1010\" itemprop=\"image\">"
+  summary: "<img src=\"images/ACTC1010.png\" style=\"border: 0; width:300px; height: 35px\" alt=\"ACSP1011\" itemprop=\"image\">"
 
 - award: "Hurricane Electric IPv6 Sage"
   organization: "Hurricane Electric"
