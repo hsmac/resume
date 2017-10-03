@@ -1,20 +1,20 @@
 # Recognitions
 - award: Apple Certified Support Professional 10.11
   organization: Apple
-#  year: 2010
- summary: <img src="images/acsp11.jpg" alt="ACSP10" class="no-print" itemprop="image">
+  #year: 2010
+  summary: <img src="images/acsp11.jpg" alt="ACSP10" itemprop="image">
 
 - award: Apple Certified Support Professional 10.10
   organization: Apple
   #year: 2010
- summary: <img src="images/acsp10.jpg" alt="ACSP10" class="no-print" itemprop="image">
+  summary: <img src="images/acsp10.jpg" alt="ACSP10" itemprop="image">
 
 - award: Apple Certified Technical Coordinator 10.10
   organization: Apple
   #year: 2010
- summary: <img src="images/actc10.jpg" alt="ACSP10" class="no-print" itemprop="image">
+  summary: <img src="images/actc10.jpg" alt="ACSP10" itemprop="image">
 
 - award: Hurricane Electric IPv6 Sage
   organization: Hurricane Electric
   #year: 2010
- summary: <a href="//ipv6.he.net/certification/scoresheet.php?pass_name=hybirdsystems" target="_blank"><img src="//ipv6.he.net/certification/create_badge.php?pass_name=hybirdsystems&amp;badge=2" style="border: 0; width: 250px; height: 194px" alt="IPv6 Certification Badge for hybirdsystems"></img></a>
+  summary: <a href="//ipv6.he.net/certification/scoresheet.php?pass_name=hybirdsystems" target="_blank"><img src="//ipv6.he.net/certification/create_badge.php?pass_name=hybirdsystems&amp;badge=2" style="border: 0; width: 250px; height: 194px" alt="IPv6 Certification Badge for hybirdsystems"></img></a>
