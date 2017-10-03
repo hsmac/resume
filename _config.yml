@@ -13,10 +13,10 @@ resume_avatar:                  "true"
 resume_name:                    "Kyle Keilson"
 resume_title:                   "Network Engineer"
 resume_contact_email:           "kyle@keilson.org"
-resume_contact_telephone:       "630-518-4538"
+resume_contact_telephone:       ""
 resume_contact_address:         "Sarasota, FL"
-resume_header_contact_info: "Sarasota, FL | 630-518-4538 | kyle@keilson.org"
-resume_header_intro: "<p>Experienced Systems and Network Support with a demonstrated history of working in the information technology and services industry. Skilled in OS X, Microsoft Office 365, Network Technologies, Bash, and Documentation. Strong information technology professional with a Bachelor of Science (B.S.) focused in Network Engineering and Security from DePaul University.</p>"
+resume_header_contact_info: "Sarasota, FL | kyle@keilson.org"
+resume_header_intro: "<p>Experienced Systems and Network Support with a demonstrated history of working in the information technology and services industry. Skilled in macOS, Microsoft Office 365, Network Technologies, Bash, and Documentation. Strong information technology professional with a Bachelor of Science (B.S.) focused in Network Engineering and Security from DePaul University.</p>"
 
 # use "yes" to display the email contact button,
 # "no" to display an "I'm not looking for work" message,
@@ -30,7 +30,7 @@ resume_section_experience:      true
 resume_section_education:       true
 #resume_section_projects:        true
 resume_section_skills:          true
-#resume_section_recognition:     true
+resume_section_recognition:     true
 #resume_section_links:           true
 #resume_section_associations:    true
 resume_section_interests:       true
