@@ -97,7 +97,7 @@ a {
  * active/hover state.
  */
 
-a:active,
+a:active {outline: 0;}
 a:hover {
   outline: 0;
 }
