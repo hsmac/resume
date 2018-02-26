@@ -97,9 +97,7 @@ a {
  * active/hover state.
  */
 
-a:active {
-  outline: 0;
-}
+a:active,
 a:hover {
   outline: 0;
 }
@@ -112,7 +110,7 @@ a:hover {
  */
 
 abbr[title] {
-  border-bottom: 1px dotted;
+  border-bottom: 0px dotted;
 }
 
 /**
