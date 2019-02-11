@@ -1,6 +1,16 @@
 # Rule 1
 User-agent: Googlebot
+User-agent: AdsBot-Google
 Disallow: /documents/
+Disallow: /.bundle/
+Disallow: /_assets/
+Disallow: /_data/
+Disallow: /_includes/
+Disallow: /_layouts/
+Disallow: /_sass/
+Disallow: /_css/
+Disallow: /_images/
+Disallow: /_resume.git/
 
 # Rule 2
 User-agent: *
