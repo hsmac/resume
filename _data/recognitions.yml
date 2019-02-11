@@ -1,15 +1,15 @@
 # Recognitions
 - award: "Comptia Network +"
   organization: Comptia
-  summary: "<a href=\"https://url.keilson.org/2yFGkao\" class=\"image-link\" target=\"_blank\"><img src=\"https://raw.githubusercontent.com/hsmac/resume/gh-pages/images/networkplus.png\" style=\"border: 0; width: 150px; height: 150px\" alt=\"Comptia Network Plus\"></a>"
+  summary: "<a href=\"https://url.keilson.org/2yFGkao\" class=\"image-link\" target=\"_blank\"><img src=\"/images/networkplus.png\" style=\"border: 0; width: 150px; height: 150px\" alt=\"Comptia Network Plus\"></a>"
 
 - award: "Cisco Certified Network Associate Routing and Switching"
   organization: Cisco
-  summary: "<a href=\"https://url.keilson.org/2yFGkao\" class=\"image-link\" target=\"_blank\"><img src=\"https://raw.githubusercontent.com/hsmac/resume/gh-pages/images/ccna.png?token=AFzkMsW2-gXa6W03jfUL_ApPlZC30iYpks5anJwswA%3D%3D\" style=\"border: 0; width: 150px; height: 150px\" alt=\"Cisco Certified Network Associate Routing and Switching\"></a>"
+  summary: "<a href=\"https://url.keilson.org/2yFGkao\" class=\"image-link\" target=\"_blank\"><img src=\"/images/ccna.png?token=AFzkMsW2-gXa6W03jfUL_ApPlZC30iYpks5anJwswA%3D%3D\" style=\"border: 0; width: 150px; height: 150px\" alt=\"Cisco Certified Network Associate Routing and Switching\"></a>"
 
 - award: "Cisco Certified Entry Networking Technician"
   organization: Cisco
-  summary: "<a href=\"https://url.keilson.org/2yFGkao\" class=\"image-link\" target=\"_blank\"><img src=\"https://raw.githubusercontent.com/hsmac/resume/gh-pages/images/ccent.png?token=AFzkMsW2-gXa6W03jfUL_ApPlZC30iYpks5anJwswA%3D%3D\" style=\"border: 0; width: 150px; height: 150px\" alt=\"Cisco Certified Entry Networking Technician\"></a>"
+  summary: "<a href=\"https://url.keilson.org/2yFGkao\" class=\"image-link\" target=\"_blank\"><img src=\"/images/ccent.png?token=AFzkMsW2-gXa6W03jfUL_ApPlZC30iYpks5anJwswA%3D%3D\" style=\"border: 0; width: 150px; height: 150px\" alt=\"Cisco Certified Entry Networking Technician\"></a>"
 
 - award: "Apple Certified Support Professional 10.11"
   organization: Apple
