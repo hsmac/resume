@@ -11,6 +11,8 @@ Disallow: /_sass/
 Disallow: /_css/
 Disallow: /_images/
 Disallow: /_resume.git/
+Disallow: /resume/
+Disallow: /images/
 
 # Rule 2
 User-agent: *
