@@ -1,7 +1,10 @@
 # Skills
 # Everything Apple
-- skill: Everything Apple
-  description: iOS, macOS, tvOS, watchOS. Up to date knowledge in each OS area.
+- skill: Apple
+  description: iOS, macOS, tvOS, watchOS. Up to date knowledge in each Operating System area.
+
+- skill: Windows
+  description: Windows Server 2003/2012 R2/2016, Windows NT/2000/XP/7/10, System Center Configuration Manager, Deployment Toolkit 
 
 # Networking
 - skill: Networking
@@ -9,4 +12,4 @@
 
 # Customer Service
 - skill: Customer Service
-  description: Troubleshooting, Technical Writing, Help Desk Support, Tier 2 support, Escalations
+  description: Troubleshooting, Technical Writing, Help Desk Support, Management
